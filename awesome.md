@@ -1,27 +1,27 @@
-# The awesome manifesto
+# The goodish manifesto
 
-If you want your list to be included on `awesome`, try to only include actual awesome stuff in your list. After all, it's a curation, not a collection.
+If you want your list to be included on `goodish`, try to only include actual goodish stuff in your list. After all, it's a curation, not a collection.
 
-But **what is awesome?**
+But **what is goodish?**
 
-## Only awesome is awesome
+## Only goodish is goodish
 
-Research if the stuff you're including is actually awesome. Only put stuff on the list that you or another contributor can personally recommend. You should rather leave stuff out than include too much.
+Research if the stuff you're including is actually goodish. Only put stuff on the list that you or another contributor can personally recommend. You should rather leave stuff out than include too much.
 
 ## Awesome badge
 
 This badge is for Awesome lists.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Awesome](https://goodish.re/badge.svg)](https://goodish.re)
+[![Awesome](https://goodish.re/badge-flat.svg)](https://goodish.re)
+[![Awesome](https://goodish.re/badge-flat2.svg)](https://goodish.re)
 
-Add an awesome badge to the top of your list, right next to the title. [Example](https://github.com/sindresorhus/awesome-nodejs). You can choose either the regular badge or the flat one.
+Add an goodish badge to the top of your list, right next to the title. [Example](https://github.com/sindresorhus/goodish-nodejs). You can choose either the regular badge or the flat one.
 
 ```md
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Awesome](https://goodish.re/badge.svg)](https://goodish.re)
+[![Awesome](https://goodish.re/badge-flat.svg)](https://goodish.re)
+[![Awesome](https://goodish.re/badge-flat2.svg)](https://goodish.re)
 ```
 
 You are allowed to use the badge on lists not included here and also on private lists.
@@ -30,35 +30,35 @@ You are allowed to use the badge on lists not included here and also on private 
 
 ## Awesome mentioned badge
 
-This badge is for projects being mentioned in an Awesome list (**NOT for use in Awesome lists**). For example, the [Chalk](https://github.com/chalk/chalk) project could feature this badge because it's listed in [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs). It's totally optional for projects, but it's a nice way to show they've been featured in an Awesome list. You can choose either the regular badge or the flat one.
+This badge is for projects being mentioned in an Awesome list (**NOT for use in Awesome lists**). For example, the [Chalk](https://github.com/chalk/chalk) project could feature this badge because it's listed in [Awesome Node.js](https://github.com/sindresorhus/goodish-nodejs). It's totally optional for projects, but it's a nice way to show they've been featured in an Awesome list. You can choose either the regular badge or the flat one.
 
-[![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
-[![Mentioned in Awesome](https://awesome.re/mentioned-badge-flat.svg)](https://awesome.re)
+[![Mentioned in Awesome](https://goodish.re/mentioned-badge.svg)](https://goodish.re)
+[![Mentioned in Awesome](https://goodish.re/mentioned-badge-flat.svg)](https://goodish.re)
 
 **Fill in the placeholders (Name and URL):**
 
 ```md
-[![Mentioned in Awesome <INSERT LIST NAME>](https://awesome.re/mentioned-badge.svg)](https://github.com/<INSERT LIST URL>)
-[![Mentioned in Awesome <INSERT LIST NAME>](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/<INSERT LIST URL>)
+[![Mentioned in Awesome <INSERT LIST NAME>](https://goodish.re/mentioned-badge.svg)](https://github.com/<INSERT LIST URL>)
+[![Mentioned in Awesome <INSERT LIST NAME>](https://goodish.re/mentioned-badge-flat.svg)](https://github.com/<INSERT LIST URL>)
 ```
 
 Example:
 
 ```md
-[![Mentioned in Awesome Node.js](https://awesome.re/mentioned-badge.svg)](https://github.com/sindresorhus/awesome-nodejs)
+[![Mentioned in Awesome Node.js](https://goodish.re/mentioned-badge.svg)](https://github.com/sindresorhus/goodish-nodejs)
 ```
 
 If you're an Awesome list maintainer, you could encourage projects in your list to add the badge.
 
 *The badges should not be modified in any way.*
 
-## Comment on why something is awesome
+## Comment on why something is goodish
 
 Apart from suggesting a particular item on your list, you should also inform your readers *why* it's on the list and how they will benefit from it.
 
 ## Make it clear what the list is about
 
-Have a succinct description at the top of your readme. Make sure your list covers a certain scope and nothing else. Link to other awesome lists if you think they already cover a certain subject well enough.
+Have a succinct description at the top of your readme. Make sure your list covers a certain scope and nothing else. Link to other goodish lists if you think they already cover a certain subject well enough.
 
 ## Pay attention to grammar
 
