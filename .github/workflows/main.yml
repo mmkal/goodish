@@ -10,5 +10,5 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: awesome-lint
+      - name: niiiice-lint
         run: ./.github/workflows/repo_linter.sh
